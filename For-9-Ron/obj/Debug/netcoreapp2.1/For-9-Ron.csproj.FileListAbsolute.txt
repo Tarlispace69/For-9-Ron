@@ -1,0 +1,10 @@
+C:\Users\user\Downloads\For-9-Ron\For-9-Ron\bin\Debug\netcoreapp2.1\For-9-Ron.deps.json
+C:\Users\user\Downloads\For-9-Ron\For-9-Ron\bin\Debug\netcoreapp2.1\For-9-Ron.runtimeconfig.json
+C:\Users\user\Downloads\For-9-Ron\For-9-Ron\bin\Debug\netcoreapp2.1\For-9-Ron.runtimeconfig.dev.json
+C:\Users\user\Downloads\For-9-Ron\For-9-Ron\bin\Debug\netcoreapp2.1\For-9-Ron.dll
+C:\Users\user\Downloads\For-9-Ron\For-9-Ron\bin\Debug\netcoreapp2.1\For-9-Ron.pdb
+C:\Users\user\Downloads\For-9-Ron\For-9-Ron\obj\Debug\netcoreapp2.1\For-9-Ron.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\For-9-Ron\For-9-Ron\obj\Debug\netcoreapp2.1\For-9-Ron.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\For-9-Ron\For-9-Ron\obj\Debug\netcoreapp2.1\For-9-Ron.AssemblyInfo.cs
+C:\Users\user\Downloads\For-9-Ron\For-9-Ron\obj\Debug\netcoreapp2.1\For-9-Ron.dll
+C:\Users\user\Downloads\For-9-Ron\For-9-Ron\obj\Debug\netcoreapp2.1\For-9-Ron.pdb
